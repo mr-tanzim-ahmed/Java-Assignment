@@ -1,15 +1,4 @@
-submit separate java class for below items:
-
-Java Variables
-
-Unary Operator: expr++ expr-- ++expr --expr
-
-Arithmetic Operator: * / % + -
-
-Relational Operator: < > <= >= instanceof == !=
-
-Logical Operator: && ||
-
-Ternary Operator and : ? : (int min=(a<b)?a:b; )
-
-Assignment Operator: = += -= *= /= %=
+1. Prepare Java Environment (JDK 17, Jetbean Toobx, Intellij Idea Community version, Github Copilot)
+2. Create a Java Project
+3. Create a package under src
+4. Create a java file with main method, print hello world
