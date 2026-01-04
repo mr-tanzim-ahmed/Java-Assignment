@@ -1,4 +1,9 @@
-1. Prepare Java Environment (JDK 17, Jetbean Toobx, Intellij Idea Community version, Github Copilot)
-2. Create a Java Project
-3. Create a package under src
-4. Create a java file with main method, print hello world
+1. Write a class with variable, constructor & method
+2. Write a class with variable, method & create object with calling variable, method
+3. Provider all access modifiers example
+4. Write a class with variable, 
+default  constructor,
+constructor  with Param,
+ method & create object with calling 
+constructor, variable, method
+5. Write a class with all types Data  [Primitive  & Non Primitive]
