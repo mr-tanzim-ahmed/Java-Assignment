@@ -1,3 +1,17 @@
+1. Inheritance
+        Single Inheritance
+        Multilevel Inheritance
+        Hierarchical Inheritance
+2. Polymorphism
+       Override
+       Overloading
+         Constructor
+         method
+3. Encapsulation
+       Wrapper
+       Modifier/Security
+       Write
+       read
 a) Write a class with all types methods include parameter
 
 b) Write a class for Decision-Making statements
